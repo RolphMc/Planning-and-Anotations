@@ -17,29 +17,24 @@
 
 
 
-Road Map:
-time lapse semanal                              1               2               3               4               5           6           7           8           9           10          11
-    
-foco emprego Frontend                           portfolio
-                                                                UX                  
-Foco emprego Frontend/Mobile                                                    planejar APK's
-
-
-
-TAREFAS - Estratégia:
+TAREFAS - Estratégia 1º fase:
+       Curriculo:
+              Continuar ajustando textos
+              Sincronizar Curriculo com plataformas de emprego
        Desenvolver o Portfólio
-       1º pra que serve o portfólio?
-              Definir métrica de sucesso
-       2º Definir o Objetivo do usuário (60%) e do negócio (40%) primeira etapa, apanas especulativa online
-              usuário:
-                     - Descobrir rápidamente especulando, quais são e seus objetivos comuns;
-                     - Planejar formas de atualizar o objetivo acima com informações reais através de entrevistas;
-                            - Desenvolver persona UX
-              negócio:
-                     - Conseguir um trabalho em uma empresa com qualidade superior.
-       3º definir o escopo:
-              o que precisa ter no portfólio?
-              verificar outros portfolios
-              o que entra primeiro?
-       
-       4º consolidar tudo no trabalho.
+              1º pra que serve o portfólio?
+                     Quem é o responsável pela seleção nas empresas que procuro?
+                     Definir métrica de sucesso
+              3º definir o escopo:
+                     o que precisa ter no portfólio?
+                     verificar outros portfolios
+                     o que entra primeiro?
+              4º consolidar tudo no trabalho.
+       Preparar-se para entrevistas:
+              Responder perguntas como:
+                     - O que me motiva a acordar todos os dias para ir para o trabalho?
+                     - Qual foi a última vez que você cometeu um grande erro no trabalho? O que você fez para corrigi-lo?
+                     - Como você lida com prazos apertados?
+                     - Como você gerencia conflitos no ambiente de trabalho?
+                     - Você prefere trabalhar sozinho ou com uma equipe?
+                     - Se eu perguntar sobre você aos seus colegas de trabalho de empregos anteriores, o que eles responderiam?
