@@ -1,12 +1,4 @@
-<p align="right">
-<a href="https://rolphmc.github.io/portfolio-rolph/#" alt="Meu Portifolio">
-<img src="https://raw.githubusercontent.com/RolphMc/portfolio-rolph/main/img/artwork.png" height='200' widht='400' alt="Portifolio | @rolph"/>
-    
-<br>
-    
-<img src="https://raw.githubusercontent.com/RolphMc/portfolio-rolph/main/img/qrcode.png" height='200' widht='400' alt="Portifolio | @rolph"/>
-</a>
-</p>
+<img src="https://raw.githubusercontent.com/RolphMc/portfolio-rolph/main/img/my-space-cup.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Olá bem vindos ao meu Github, sou o Rodolfo um desenvolvedor <strong>Front-End</strong> e <strong>UI/UX Designer</strong>. Estou disponível para freelas/trabalho e entusiasmado para produzir algo significativo, vamos crescer juntos, veja meu portifólio;
