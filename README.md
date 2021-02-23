@@ -10,7 +10,7 @@
 
 <p align="left">
   🛠️ Ferramentas: <strong>VSCODE, Xampp, PhotoShop, Git e GitHub.</strong>
-</p>w
+</p>
 
 <p align="left">
   💡 Atividades: <strong>Aprofundando-me em JQuery, Kotlin e buscando uns jobs.<strong>
