@@ -9,11 +9,15 @@
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong>VSCODE, Corel Draw, PhotoShop, Git e GitHub.</strong>
+  🛠️ Ferramentas: <strong>VSCODE, Xampp, PhotoShop, Git e GitHub.</strong>
+</p>w
+
+<p align="left">
+  💡 Atividades: <strong>Aprofundando-me em JQuery, Kotlin e buscando uns jobs.<strong>
 </p>
 
 <p align="left">
-  💬 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem:: ⤵️
+  💬 Caso queira bater um papo ou realizar um projeto comigo, não hesite em me enviar uma mensagem:: ⤵️
 </p>
 
 <p align="left">
