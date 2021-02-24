@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💡 Atividades: <strong>Aprofundando-me em JQuery, Kotlin e buscando uns jobs.<strong>
+  💡 Atividades: <strong>Aprofundando-me em JQuery e Kotlin.<strong>
 </p>
 
 <p align="left">
