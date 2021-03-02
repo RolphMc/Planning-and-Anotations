@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <h1>Curso Java Script</h1>
+        <h2>Curso em vídeo</h2>
+        <h3>Bloco de Anotações</h3>
+        
+        <article>
+            <h2>Tarefas a Pesquisar:</h2>
+            <ol>
+                <li>ECMAscript</li>
+                <li>Livro - Java Script o Guia Definitivo</li>
+                <li>Livro - Java Script, guia do programador</li>
+                <li>Referências: Mozzila</li>
+                <li>Referências: ECMA</li>
+            </ol>
+        </article>
+
+        <article id="A1">
+            <h2>aula 1. - Interações</h2>
+            <ul>
+                <li>
+                    <p>Descrição de como funciona a interação entre HTML, CSS e Java Script</p>
+                </li>
+            </ul>
+        </article>
+        
+        <article id="A2">
+            <h2>Aula 2. História do JS</h2>
+            <ul>
+                <li>ECMAScript (ES) foi a responsável por padronizar o JS</li>
+                <li>node JS é responsável por rodas java script fora do navegador.</li>
+                <li>Curso Baseado no ES6</li>
+            </ul>
+        </article>
+
+        <article id="A3">
+            <h2>aula 3. Dando os primeiros passos</h2>
+            <ul>
+                <li>Referência ECMAScript</li>
+                <li>Instalações dos programas</li>
+            </ul>
+        </article>
+
+        <article id="A4">
+            <h2>aula 4. - Primeiro Script</h2>
+            <ul>
+                <li>alert</li>
+                <li>confirm</li>
+                <li>prompt</li>
+            </ul>
+        </article>
+
+        <article id="A5">
+            <h2>aula 5. - Variáveis</h2>
+            <ul>
+                <li>Como fazer comentários</li>
+                <li>Operador =</li>
+                <li>Regras de criação de variáveis</li>
+                <li><strong>typeof</strong> - descreve o tipo de dados de uma dada variável (algumas curiosidades interessantes nessa aula)</li>
+            </ul>
+        </article>
+
+        <article id="A6">
+            <a href="https://youtu.be/OJgu_KCCUSY"><h2>aula 6. - Manipulação de Dados</h2></a>
+            <ul>
+                <li><a href="#A6" onclick="chamaNome()">Teste Váriável com manipulação de dados</a></li>
+                <li><a href="#A6" onclick="chamaCalculadora(true)">Teste calculo de números</a> o teste concatena os números justamente porque o comando <code>prompt</code> retorna uma string, para que o resultado dê certo precisamos efetuar a conversão dos dados.</li>
+                <li><a href="#A6" onclick="chamaCalculadora(converter)">Soma Números Convertidos</a> para que não ocorra a concatenação, as variáveis devem ser convertidas primeiramente</li>
+                <li>Muito Importante saber sobre os <code>Number.parse</code> e/ou <code>Number</code></li>
+                <li>Para fazer o efeito oposto (Converter number para string) usa-se <code>String(n)</code> ou <code>n.toString()</code></li>
+                <li><a href="#A6" onclick="chamaCalculadora(false, true)">Toque aqui</a> para usar técnica de <strong>Template Strings <code>${n}</code></strong> (${} também chamado de Placeholder)</li>
+                <li><code>Number</code> comando que deixa para o JS escolher o tipo de dados que está sendo tratado</li>
+                <li> Outros comandos de manipulação <a href="#A6" onclick="chamaContador()">Teste aqui</a>
+                    <ul>
+                        <li><code>.length</code> retorna o número de caracters existe em uma string </li>
+                        <li><code>.toUpperCase</code> retorna a string toda em maiúsculo</li>
+                        <li><code>.toSlowerCase</code>tudo minúscula</li>
+                    </ul>
+                </li>
+                <li> Manipulação de Números <a href="#A6" onclick="convertNumber()">Teste aqui</a>
+                    <ul>
+                        <li><code>.toFixed()</code> fixa as casas decimais em um dado numero</li>
+                        <li><code>.replace('substituido','substituto')</code> Código para trocar caracteres de uma string</li>
+                        <li><code>.toLocaleString(language, {style: 'currency', currency: 'BRL'})</code> Transforma valor numérico em monetário</li>
+                    </ul> 
+                </li>
+
+            </ul>
+        </article>
+
+        <article id="AnswersLK">
+            <h2>Respostas Linkedin</h2>
+            <ul>
+                <li><a href="#AnswersLK" onclick="diff(10,20)">Questão diff e sun</a></li>
+                <li><a href="#AnswersLK" onclick="returnX()">Questão returnX</a> Quando é instanciado, um objeto chama seus métodos sem necessidade de parenteses () - Estudar sobre</li>
+            </ul>
+        </article>
+
+    </main>
+</body>
+    <script src="exercicios.js"></script>
+</html>
