@@ -63,3 +63,67 @@ function returnX () {
 
     alert(x.Y)
 }
+
+var v = 1
+
+var f1 = function (){
+    alert(v)
+}
+
+var f2 = function(){
+    var v = 2
+    f1()
+}
+
+function tamanhoA (){
+    var a = ['dog', 'cat', 'hen']
+    a [100] = 'fox'
+    alert(a.length)
+}
+
+function testExpression(){
+    alert([3] == [3])
+    alert(3 == '3')
+    alert(3 != '3')
+    alert(3 === '3')
+}
+
+'use strict';
+function logThis() {
+  this.desc = 'logger';
+  console.log(this);
+}
+
+function activate (){
+    new logThis();
+} 
+
+function printA() {
+    alert(answer);
+    var answer = 1;
+  }
+
+  function answerP (){
+    printA();
+    printA();
+  }
+
+  function sayHello() {
+    alert('hello');
+  }
+  
+  function testPrototype(){
+    alert(sayHello.prototype);
+  }
+
+function oQueAcontece(){
+var start = 1;
+        function setEnd() {
+        var end = 10;
+        }
+    setEnd();
+    alert(end);
+}
+
+
+
