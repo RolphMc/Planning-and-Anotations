@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/RolphMc/portfolio-rolph/main/img/my-space-cup.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rolph">
 
 <p align="left"> 
-  Olá bem vindos ao meu Github, sou o Rodolfo um desenvolvedor <strong>Front-End<strong> que tem necessidade de aprender coisas novas e aplica-las na resolução dos mais diversos problemas do dia a dia. Estou entusiasmado para produzir algo significativo junto de pessoas e empresas. 
+  Olá bem vindos ao meu Github, sou o Rodolfo um desenvolvedor <strong>Front-End</strong> que tem necessidade de aprender coisas novas e aplica-las na resolução dos mais diversos problemas do dia a dia. Estou entusiasmado para produzir algo significativo junto de pessoas e empresas. 
 
  Veja meu portifólio <a href="https://rolphmc.github.io/portfolio-rolph/#">Clicando aqui</a> 
 </p>
