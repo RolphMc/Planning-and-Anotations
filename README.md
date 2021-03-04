@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/RolphMc/portfolio-rolph/main/img/my-space-cup.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rolph">
 
 <p align="left"> 
-  Olá bem vindos ao meu Github, sou o Rodolfo um desenvolvedor <strong>Front-End</strong> e <strong>UI/UX Designer</strong>. Estou disponível para freelas/trabalho e entusiasmado para produzir algo significativo, vamos crescer juntos, veja meu portifólio <a href="https://rolphmc.github.io/portfolio-rolph/#">Clicando aqui</a>;
+  Olá bem vindos ao meu Github. Sou o Rodolfo um desenvolvedor <strong>Front-End</strong> que tem necessidade de aprender coisas novas e aplica-las na resolução dos mais diversos problemas do dia a dia. Estou entusiasmado para produzir algo significativo junto de pessoas e empresas. 
+
+ Veja meu portifólio <a href="https://rolphmc.github.io/portfolio-rolph/#">Clicando aqui</a> 
 </p>
 
 <p align="left">
@@ -13,11 +15,11 @@
 </p>
 
 <p align="left">
-  💡 Atividades: <strong>Aprofundando-me em JQuery, Kotlin e .Net.<strong>
+  🎯 Atividades: <strong>Focado na aplicação e melhoria das minhas habilidades em Front-end. Meu objetivo é conquistar a oportunidade de participar e contribuir no desenvolvimento de algum projeto que ajude a sociedade de alguma forma! <strong>
 </p>
 
 <p align="left">
-  💬 Caso queira bater um papo ou realizar um projeto comigo, não hesite em me enviar uma mensagem:: ⤵️
+  💬 Caso queira trocar ideias, não hesite em me enviar uma mensagem:: ⤵️
 </p>
 
 <p align="left">
