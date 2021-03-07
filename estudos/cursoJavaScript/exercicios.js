@@ -125,5 +125,11 @@ var start = 1;
     alert(end);
 }
 
+const somaAnonima = function (numero1){
+    return(numero2) => (numero1 + numero2)
+}
+
+const minhaClosure = alert(somaAnonima(2))
+
 
 
