@@ -1,38 +1,547 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <title>Tudo sobre Fertilização In Vitro (FIV) - Zaganelli Oliveira</title>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="content-language" content="pt-br">
-    <meta name="autor" content="New Connections">
-    <meta name="creator" content="teste front-end | @rolph - Developer and Designer"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A Fertilização in Vitro (FIV) é um dos tratamentos mais indicados para casos de infertilidade e de idade avançada. Saiba o que é FIV.">
-    <meta name="robots" content="index, max-snippet:-1, max-image-preview:large">
-    <meta property="og:locale" content="pt_BR"/>
-    <meta property="og:type" content="article">
-    <meta property="og:title" content="Tudo sobre Fertilização In Vitro (FIV) - Zaganelli Oliveira">
-    <meta property="og:description" content="A Fertilização in Vitro (FIV) é um dos tratamentos mais indicados para casos de infertilidade e de idade avançada. Saiba o que é FIV.">
-    <meta property="og:url" content="https://zaganellioliveira.com.br/">
-    <meta property="og:site_name" content="Zaganelli Oliveira">
-    <meta property="og:image" content="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/bgEquipe.jpg">
-    <base href="index.html">
-</head>
-<body>
-    <nav></nav><!--Falta-->
-    <!--Ver - introdução a eventos: https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Events-->
+<!doctype html>
+<html lang="pt-BR">
+    <head>  
+        <title>Tudo sobre Fertilização In Vitro (FIV) - Zaganelli Oliveira</title>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="content-language" content="pt-br">
+        <meta name="autor" content="New Connections">
+        <meta name="creator" content="teste front-end | @rolph - Developer"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="A Fertilização in Vitro (FIV) é um dos tratamentos mais indicados para casos de infertilidade e de idade avançada. Saiba o que é FIV.">
+        <meta name="robots" content="index, max-snippet:-1, max-image-preview:large">
+        <meta property="og:locale" content="pt_BR"/>
+        <meta property="og:type" content="article">
+        <meta property="og:title" content="Tudo sobre Fertilização In Vitro (FIV) - Zaganelli Oliveira">
+        <meta property="og:description" content="A Fertilização in Vitro (FIV) é um dos tratamentos mais indicados para casos de infertilidade e de idade avançada. Saiba o que é FIV.">
+        <meta property="og:url" content="https://zaganellioliveira.com.br/">
+        <meta property="og:site_name" content="Zaganelli Oliveira">
+        <meta property="og:image" content="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/bgEquipe.jpg">
+        <link rel="apple-touch-icon" sizes="180x1x80" href="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/favicon/favicon-16x16.png">
+        <link rel="manifest" href="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/favicon/site.webmanifest">
+        <link rel='dns-prefetch' href='//ajax.googleapis.com' />
+        <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+        <link rel='dns-prefetch' href='//s.w.org' />      
+        <link rel='stylesheet' id='wp-block-library-css'  href='https://zaganellioliveira.com.br/wp-includes/css/dist/block-library/style.min.css?ver=5.6.2' media='all' />
+        <link rel='stylesheet' id='wpdiscuz-frontend-css-css'  href='https://zaganellioliveira.com.br/wp-content/plugins/wpdiscuz/themes/default/style.css?ver=7.1.3' media='all' />
+        <link rel='stylesheet' id='wpdiscuz-fa-css'  href='https://zaganellioliveira.com.br/wp-content/plugins/wpdiscuz/assets/third-party/font-awesome-5.13.0/css/fa.min.css?ver=7.1.3' media='all' />
+        <link rel='stylesheet' id='wpdiscuz-combo-css-css'  href='https://zaganellioliveira.com.br/wp-content/plugins/wpdiscuz/assets/css/wpdiscuz-combo.min.css?ver=5.6.2' media='all' />
+        <link rel='stylesheet' id='bootstrap-css-css'  href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css?ver=1.1' media='all' />
+        <link rel='stylesheet' id='zaganelli-style-css'  href='https://zaganellioliveira.com.br/wp-content/themes/zaganelli/style.css?ver=1.0.0' media='all' />
+        <!--Rolph-->
+        <link rel='stylesheet' href='_css/style.css'/>
+    </head>
+   
+    <body class="post-template-default single single-post postid-28 single-format-standard odio-sed-est-perspiciatis-quas-et">
+        <div id="page" class="site">
+            <header id="masthead" class="site-header">
+            <img id="bg-home" class="boxshadow post" src="_img/bgHome.png" />
+            <div class="destacada post" style="background-image: url(https://zaganellioliveira.com.br/wp-content/uploads/2021/02/885f13b2-d7e0-3a8a-b35c-ae6052077fa1.png);"></div>
+            <div class="container">
+                <div id="container-navigation" class="row justify-content-center">
+                    <nav id="site-navigation" class="main-navigation col-12 col-lg-6 align-self-start">
+                        <div class="fundo">
+                            <img class="luckystar" src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/shine.png">
+                            <a href="https://zaganellioliveira.com.br" target="_self">
+                                <img class="logo" src="_img/logo.png" />
+                            </a>
+                            <div id="menu-icone">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </div>
+                        <div class="menu-container">
+                        <div class="menu-menu-principal-container">
+                            <ul id="primary-menu" class="menu">
+                                <li id="menu-item-85" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-85"><a href="https://zaganellioliveira.com.br/">Home</a></li>
+                                <li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-83">
+                                    <a href="#">Item do menu</a>
+                                    <ul class="sub-menu">
+                                    <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="https://zaganellioliveira.com.br/fertilizacao-in-vitro-fiv/">Fertilização in Vitro (FIV)</a></li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://zaganellioliveira.com.br/agendamento/">Pré-Agendamento</a></li>
+                                <li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://zaganellioliveira.com.br/equipe/">Nossa equipe</a></li>
+                                <li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="https://zaganellioliveira.com.br/blog/">Blog</a></li>
+                            </ul>
+                        </div>
+                        </div>
+                    </nav>
+                    <!-- #site-navigation -->
+                    <div class="search col-12 col-lg-6 align-self-start text-right">
+                        <img id="search-icone" src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/lupa.png" />
+                        <form method="get" id="searchform" action="https://zaganellioliveira.com.br/">
+                        <input type="text" class="field" name="s" id="s" placeholder="Buscar" />
+                        </form>
+                    </div>
+                </div>
+            </div>
+            </header><!-- #masthead -->
+            
+            <main>            
+            <section>
+                <article>
+                    <h5>Medicina Reprodutiva</h5>
+                    <h1 tabindex="1">Fertilização in Vitro (FIV)</h1>
+                    <h3>Por Dra. Fabrícia Leal Zaganelli</h3>
+                    <p>O termo fertilização in vitro é o procedimento de alta complexidade que foi projetado para superar a infertilidade e produzir a gravidez como resultado da manipulação dos gametas (óvulos e espermatozoides) em laboratório.</p>
+                </article>
+                
+                <article>
+                    <h2 tabindex="2">Técnicas de reprodução assistida</h2>
+                    
+                    <p>As técnicas de reprodução assistida englobam todos os tratamentos de infertilidade que favoreçam o encontro do óvulo com o espermatozoide, sob condições ambientais controladas em laboratório.</p>
+                    
+                    <p>Incluem fertilização <i>in vitro</i> (FIV) e transferência embrionária, injeção intracitoplasmática de espermatozoide (ICSI), biópsia embrionária, testes genéticos pré-implantacionais, criopreservação de gametas e outras técnicas.</p>
 
-    <main><!--Atributos Globais - https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes-->
-        <section>
-            <header>
-                <h5 draggable="true">Medicina Reprodutiva</h5>
-                <h1>Fertilização in Vitro (FIV)</h1>
-                <h3>Por Dra. Fabrícia Leal Zaganelli</h3>
-                <p>O termo fertilização in vitro é o procedimento de alta complexidade que foi projetado para superar a infertilidade e produzir a gravidez como resultado da manipulação dos gametas (óvulos e espermatozoides) em laboratório.</p>
-            </header>
-        </section>
+                    <p>Além do tratamento de infertilidade, atualmente, o emprego das TRA oferece ao indivíduo a possibilidade de garantir autonomia reprodutiva a despeito da orientação sexual (homoafetivos, FIV com gametas doados), da existência de doenças malignas (criopreservação oocitária ANTES de iniciar o tratamento do câncer por cirurgia, radioterapia ou quimioterapia) ou existência de anormalidades genéticas (por meio da biopsia embrionária pré-implantacional).</p>
+                
+                    <h2 tabindex="3">A fertilização <i>in vitro</i> (FIV)</h2>
 
-    </main>
-</body>
+                    <p>A FIV, inicialmente, foi indicada para tratamento de mulheres com doença tubária, no entanto, com avançar da medicina, atualmente possui uma gama de indicações, sendo mais frequente: </p>
+                    
+                    <ul>
+                        <li><p>fator tubário (primeira escolha nos casos de obstrução tubas);</p></li>
+                        <li><p>endometriose moderada a grave;</p></li>
+                        <li><p>infertilidade por fator masculino;</p></li>
+                        <li><p>baixa reserva ovariana ou falência ovariana (com emprego de óvulos doados);</p></li>
+                        <li><p>infertilidade sem causa aparente;</p></li>
+                        <li><p>após falha em tratamentos de baixa complexidade.</p></li>
+                    </ul>
+                    
+                    <p>Um ciclo de fertilização ocorre ao longo de um intervalo de duas a três semanas (média 21 dias) e compreende as seguintes etapas: </p>
+
+                    <ul>
+                        <li><p>Indução ou estimulação da ovulação;</p></li>
+                        <li><p>Coleta de gametas (aspiração folicular e preparo do sêmen);</p></li>
+                        <li><p>Fertilização ou fecundação: FIV clássica ou ICSI;</p></li>
+                        <li><p>Cultivo embrionário;</p></li>
+                        <li><p>Transferência embrionária;</p></li>
+                        <li><p>Manutenção da fase lútea com suporte hormonal.</p></li>
+                    </ul>
+
+                    <p>É possível, por meio da FIV, realizar o preparo e a seleção dos gametas utilizando apenas os de melhor qualidade, para a formação de embriões saudáveis e com maiores chances de resultar em uma gestação bem-sucedida. Tudo isso faz com que a FIV consiga oferecer melhores taxas de sucesso quando comparada às técnicas de baixa complexidade.</p>
+
+                    <p>Por isso, cada tratamento é individualizado e iniciado após uma profunda investigação da infertilidade.</p>
+
+                    <figure id="figure-article1">
+                        <img src="_img/figBanner1.jpg" alt="FIV para quem realizou métodos contraceptivos definitivos">
+                    </figure>
+
+                    <h2 tabindex="4">Etapas da FIV</h2>
+
+                    <ul>
+                        <li>
+                            <h4>Indução ou estimulação da ovulação</h4>
+                            
+                            <p>A estimulação ovariana é um tratamento hormonal que estimula os óvulos (folículos) e promove o crescimento e amadurecimento de um número maior de óvulos. <br>Para a FIV, é importante que a mulher libere o maior número de óvulos possível, para que as chances da fecundação sejam maiores e para que não seja necessário realizar a estimulação novamente em próximas tentativas de gestação. Essa etapa só é realizada quando a paciente vai utilizar os próprios óvulos e ainda não possui gametas congelados.</p>
+
+                            <p>São administrados medicamentos hormonais (hormônio folículo-estimulante), com dosagem definida pelo médico, de acordo com as características individuais de cada paciente. O tratamento é acompanhado por meio de ultrassonografias, para analisar o crescimento dos óvulos e identificar se a dosagem está adequada. <br> Quando os óvulos alcançam o tamanho adequado, outro medicamento (hormônio hCG) é inserido no tratamento para amadurecer os óvulos e posteriormente fazer a coleta programada.</p>
+
+                            <p>No entanto, a estimulação é um processo controlado e deve ser realizado por especialista na área de reprodução assistida, para evitar a hiperestimulação ovariana (SHO), uma complicação rara, cuja forma grave varia de 0,5% a 1%.</p>
+                        </li>
+                        <li>
+                            <h4 tabindex="5">Coleta de gametas (aspiração folicular e preparo do sêmen)</h4>
+
+                            <p>A coleta dos óvulos (folículos) é realizada 35 h após seu amadurecimento (<i>trigger</i>), usualmente por meio de punção ovariana em centro cirúrgico sob anestesia. O conteúdo do folículo é prontamente encaminhado ao laboratório para identificação e classificação dos óvulos. </p>
+
+                            <p>O procedimento, quando executado por um profissional experiente, possui baixo risco de complicações (infecção, sangramento, reação adversa à anestesia).</p>
+
+                            <p>Praticamente ao mesmo tempo é feita a coleta dos espermatozoides (sêmen), por meio de masturbação na própria clínica médica. Em casos de ejaculação retrógrada grave, pode ser obtido por meio da urina ou, caso necessário, por procedimentos cirúrgicos (retirada dos espermatozoides diretamente dos testículos ou dos epidídimos), quando o homem tem infertilidade grave e não ejacula espermatozoides (ausência de espermatozoides no sêmen, por exemplo por vasectomia).</p>
+
+                            <p>O preparo do sêmen tem o objetivo de eliminar toxinas e contaminantes que possam desencadear quadros infecciosos, além de separar os espermatozoides para que sejam selecionados os de melhor qualidade.</p>
+
+                            <p>Na inexistência ou impossibilidade de usar espermatozoides próprios, são utilizados os bancos de sêmen.</p>
+                        </li>
+                        <li>
+                            <h4 tabindex="6">Fertilização ou fecundação (FIV clássica ou ICSI)</h4>
+
+                            <p>A fecundação na FIV acontece em laboratório e pode ser clássica ou por ICSI (injeção intracitoplasmática de espermatozoide).</p>
+
+                            <p>Na FIV clássica, após o processamento, os espermatozoides móveis e direcionais são colocados diretamente em contato com óvulos para fecundação.</p>
+
+                            <p>Já a ICSI consiste na injeção de um único espermatozoide dentro de cada óvulo, com o auxílio de um microscópio e uma agulha específica para esse fim.</p>
+
+                            <p>As chances de fecundação são grandes, já que os espermatozoides não precisam encontrar os óvulos nem romper a zona pelúcida, membrana que envolve o óvulo. A ICSI foi empregada inicialmente em casos de fator masculino grave, mas hoje é amplamente utilizada.</p>
+
+                            <p>A proporção entre FIV clássica e ICSI sofreu alterações nos últimos anos: a FIV clássica vem sendo gradualmente substituída pela ICSI.</p>
+                        </li>
+                        <li>
+                            <h4 tabindex="7">Cultivo embrionário</h4>
+                            
+                            <p>Após a fecundação, os embriões formados são cultivados por até 5 dias em um ambiente com condições adequadas para o desenvolvimento embrionário. Esse processo é acompanhado de perto por embriologistas, profissionais especialistas no desenvolvimento do embrião, desde sua formação.</p>
+
+                            <p>O sucesso do procedimento depende, em grande parte, da qualidade técnica do laboratório. Para isso, controles de qualidade rigorosos são realizados constantemente visando a garantir ambiente adequado ao desenvolvimento do embrião.</p>
+                        </li>
+                        <li>
+                            <h4 tabindex="8">Transferência embrionária</h4>
+
+                            <p>Na transferência embrionária, os embriões formados e cultivados são colocados na cavidade uterina para que possam alcançar o endométrio e se fixar para dar início à gestação. </p>
+
+                            <p>A transferência pode ser realizada com número específico de embriões em cada ciclo, de acordo com a idade da paciente. Esses valores são definidos pelo Conselho Federal de Medicina (CFM). Se a idade da paciente, no momento da coleta dos óvulos, for:</p>
+
+                            <ul>
+                                <li>até 35 anos, podem ser transferidos no máximo 2 embriões;</li>
+                                <li>entre 36 e 39 anos, podem ser transferidos no máximo 3 embriões;</li>
+                                <li>40 anos ou mais, podem ser transferidos até 4 embriões.</li>
+                            </ul>
+
+                            <p>Essa diferença existe porque, quanto mais jovens os óvulos que formaram os embriões, maiores as chances de implantação no endométrio. As mulheres mais jovens transferem menos embriões para diminuir os riscos de gestação gemelar, e as mais velhas transferem mais embriões para aumentar as chances de implantação (e nesse caso a chance de gestação gemelar já é naturalmente menor).</p>
+
+                            <p>Nas situações de doadoras de óvulos e embriões, considera-se a idade da doadora no momento da coleta dos folículos.</p>
+
+                            <ul>
+                                <li>Manutenção da fase lútea com suporte hormonal</li>
+                            </ul>
+
+                            <p>Para que a gestação possa evoluir adequadamente, é necessário garantir o suporte hormonal apropriado à receptividade do endométrio (em que se implantou o embrião), sendo obrigatória a suplementação de fase lútea nesses ciclos. O uso de progesterona ou hCG é fundamental, pois está associado com maiores índices de gestação e nascimentos</p>
+                        </li>
+                    </ul>
+                    
+                    <h2 tabindex="9">Necessidade de realizar técnicas complementares</h2>
+
+                    <p>Um dos principais diferenciais da FIV são as técnicas complementares, que auxiliam na identificação e solução dos problemas. Esses procedimentos só podem ser realizados no contexto da FIV. Alguns exemplos são:</p>
+
+                    <ul>
+                        <li><p><strong>ovodoação:</strong> quando a mulher não possui óvulos próprios e utiliza os de uma doadora anônima, que serão fecundados com os espermatozoides de seu parceiro por meio da FIV;</p></li>
+                        
+                        <li><p><strong>doação de sêmen:</strong>quando o homem não possui espermatozoides em boa quantidade ou qualidade e precisa utilizar o material genético de um doador anônimo para a fecundação dos óvulos de sua parceira;</p></li>
+                        
+                        <li><strong>cessão temporária de útero:</strong> mais conhecida como barriga de aluguel, a técnica é realizada por casais homoafetivos masculinos, homens solteiros e mulheres que não podem engravidar por questões que podem colocar sua vida ou a do feto em risco;</li>
+
+                        <li><p><strong>PGT (teste genético pré-implantacional): </strong> exame realizado no embrião para verificar se há a presença de doenças genéticas.</p></li>
+                    </ul>
+
+                    <p>Existem ainda outros procedimentos complementares que são indicados em situações bastante específicas. Por isso, é necessário realizar uma investigação profunda da infertilidade conjugal, para identificar as necessidades de cada paciente.</p>
+
+                    <figure id="figure-article2">
+                        <img src="_img/figBanner2.jpg" alt="FIV para quem realizou métodos contraceptivos definitivos">
+                    </figure>
+
+                    <h2 tabindex="10">Taxa de sucesso</h2>
+
+                    <p>Apesar do número crescente de ciclos de FIV ao redor do mundo, das taxas de sucesso progressivamente melhores (média 40%), do avanço no desenvolvimento de tecnologias, o procedimento depende da qualidade do embrião, que está relacionado principalmente à idade feminina, à receptividade do endométrio e a uma transferência adequada.</p>
+
+                    <p>A idade feminina é o principal fator do sucesso das técnicas de reprodução assistida (TRA). Há um declínio da fertilidade, o qual é idade-dependente, especialmente após 40 anos.</p>
+
+                    <p>Sem dúvida alguma, a FIV mudou de forma definitiva o tratamento da infertilidade e trouxe com ela inúmeros benefícios e inestimáveis avanços científicos.</p>
+
+                </article>
+
+                <div class="row justify-content-center">
+                    <div class="share col-md-10">
+                        <h4>Gostou desse Artigo? <br><strong>Compartilhe.</strong></h4>
+                        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://zaganellioliveira.com.br/odio-sed-est-perspiciatis-quas-et/">
+                            <img class="icones" src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/facebook.png">
+                        </a>
+                        <a target="_blank" href="https://twitter.com/home?status=https://zaganellioliveira.com.br/odio-sed-est-perspiciatis-quas-et/">
+                            <img class="icones" src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/twitter.png">
+                        </a>
+                        <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://zaganellioliveira.com.br/odio-sed-est-perspiciatis-quas-et/&title=&summary=&source=">
+                            <img class="icones" src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/linkedin.png">
+                        </a>
+                        <a target="_blank" href="https://api.whatsapp.com/send?text=https://zaganellioliveira.com.br/odio-sed-est-perspiciatis-quas-et/">
+                            <img class="icones" src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/whatsapp.png">
+                        </a>
+                    </div>
+                    <div class="comments col-md-10">
+                       <div class="wpdiscuz_top_clearing"></div>
+                       <div id='comments' class='comments-area'>
+                          <div id='respond' style='width: 0;height: 0;clear: both;margin: 0;padding: 0;'></div>
+                          <div id="wpdcom" class="wpdiscuz_unauth wpd-default wpd-layout-1 wpd-comments-open">
+                             <div class="wc_social_plugin_wrapper">
+                             </div>
+                             <div class="wpd-form-wrap">
+                                <div class="wpdiscuz-subscribe-bar wpdiscuz-hidden">
+                                   <form action="https://zaganellioliveira.com.br/wp-admin/admin-ajax.php?action=wpdAddSubscription" method="post" id="wpdiscuz-subscribe-form">
+                                      <div class="wpdiscuz-subscribe-form-intro">Notify of </div>
+                                      <div class="wpdiscuz-subscribe-form-option" style="width:40%;">
+                                         <select class="wpdiscuz_select" name="wpdiscuzSubscriptionType" >
+                                            <option value="post">new follow-up comments</option>
+                                            <option value="all_comment" >new replies to my comments</option>
+                                         </select>
+                                      </div>
+                                      <div class="wpdiscuz-item wpdiscuz-subscribe-form-email">
+                                         <input  class="email" type="email" name="wpdiscuzSubscriptionEmail" required="required" value="" placeholder="Email"/>
+                                      </div>
+                                      <div class="wpdiscuz-subscribe-form-button">
+                                         <input id="wpdiscuz_subscription_button" class="wpd-prim-button" type="submit" value="&rsaquo;" name="wpdiscuz_subscription_button" />
+                                      </div>
+                                      <input type="hidden" id="wpdiscuz_subscribe_form_nonce" name="wpdiscuz_subscribe_form_nonce" value="8a6df097de" /><input type="hidden" name="_wp_http_referer" value="/odio-sed-est-perspiciatis-quas-et/" />                            
+                                   </form>
+                                </div>
+                                <div class="wpd-form wpd-form-wrapper wpd-main-form-wrapper" id='wpd-main-form-wrapper-0_0'>
+                                   <form class="wpd_comm_form wpd_main_comm_form" method="post" enctype="multipart/form-data">
+                                      <div class="wpd-field-comment">
+                                         <div class="wpdiscuz-item wc-field-textarea">
+                                            <div class="wpdiscuz-textarea-wrap ">
+                                               <div class="wpd-avatar">
+                                                  <img alt='Imagem Usuário' src='_img/comment-img_07.jpg' class='avatar avatar-56 avatar-default' height='56' width='56' loading='lazy'/>                                    
+                                               </div>
+                                               <div id="wpd-editor-wraper-0_0" style="display: none;">
+                                                  <div id="wpd-editor-char-counter-0_0" class="wpd-editor-char-counter"></div>
+                                                  <textarea id="wc-textarea-0_0" required name="wc_comment" class="wc_comment wpd-field"></textarea>
+                                                  <div id="wpd-editor-0_0"></div>
+                                                  <div id="wpd-editor-toolbar-0_0">
+                                                     <button title="Bold" class="ql-bold"  ></button>
+                                                     <button title="Italic" class="ql-italic"  ></button>
+                                                     <button title="Underline" class="ql-underline"  ></button>
+                                                     <button title="Strike" class="ql-strike"  ></button>
+                                                     <button title="Ordered List" class="ql-list" value='ordered' ></button>
+                                                     <button title="Unordered List" class="ql-list" value='bullet' ></button>
+                                                     <button title="Blockquote" class="ql-blockquote"  ></button>
+                                                     <button title="Code Block" class="ql-code-block"  ></button>
+                                                     <button title="Link" class="ql-link"  ></button>
+                                                     <button title="Source Code" class="ql-sourcecode"  data-wpde_button_name='sourcecode'>{}</button>
+                                                     <button title="Spoiler" class="ql-spoiler"  data-wpde_button_name='spoiler'>[+]</button>
+                                                     <div class="wpd-editor-buttons-right">
+                                                        <span class='wmu-upload-wrap' wpd-tooltip='Attach an image to this comment' wpd-tooltip-position='left'><label class='wmu-add'><i class='far fa-image'></i><input style='display:none;' class='wmu-add-files' type='file' name='wmu_files[]'  accept='image/*'/></label></span>
+                                                        <div class='wpd-clear'></div>
+                                                     </div>
+                                                  </div>
+                                               </div>
+                                            </div>
+                                         </div>
+                                      </div>
+                                      <div class="wpd-form-foot" style='display:none;'>
+                                         <div class="wpdiscuz-textarea-foot">
+                                            <div class="wpdiscuz-button-actions">
+                                               <div class='wmu-action-wrap'>
+                                                  <div class='wmu-tabs wmu-images-tab wmu-hide'></div>
+                                               </div>
+                                            </div>
+                                         </div>
+                                         <div class="wpd-form-row">
+                                            <div class="wpd-form-col-left">
+                                               <div class="wpdiscuz-item wc_name-wrapper wpd-has-icon">
+                                                  <div class="wpd-field-icon"><i class="fas fa-user"></i></div>
+                                                  <input id="wc_name-0_0" value="" required='required' class="wc_name wpd-field" type="text" name="wc_name" placeholder="Nome*" maxlength="50" pattern='.{3,50}' title="">
+                                                  <label for="wc_name-0_0" class="wpdlb">Nome*</label>
+                                               </div>
+                                               <div class="wpdiscuz-item wc_email-wrapper wpd-has-icon">
+                                                  <div class="wpd-field-icon"><i class="fas fa-at"></i></div>
+                                                  <input id="wc_email-0_0" value="" required='required' class="wc_email wpd-field" type="email" name="wc_email" placeholder="Email*" />
+                                                  <label for="wc_email-0_0" class="wpdlb">Email*</label>
+                                               </div>
+                                               <div class="wpdiscuz-item wc_website-wrapper wpd-has-icon">
+                                                  <div class="wpd-field-icon"><i class="fas fa-link"></i></div>
+                                                  <input id="wc_website-0_0" value="" class="wc_website wpd-field" type="text" name="wc_website" placeholder="Website" />
+                                                  <label for="wc_website-0_0" class="wpdlb">Website</label>
+                                               </div>
+                                            </div>
+                                            <div class="wpd-form-col-right">
+                                               <div class="wc-field-submit">
+                                                  <label class="wpd_label" wpd-tooltip="Notificar-me de respostas a este comentário">
+                                                  <input id="wc_notification_new_comment-0_0" class="wc_notification_new_comment-0_0 wpd_label__checkbox" value="comment" type="checkbox" name="wpdiscuz_notification_type" />
+                                                  <span class="wpd_label__text">
+                                                  <span class="wpd_label__check">
+                                                  <i class="fas fa-bell wpdicon wpdicon-on"></i>
+                                                  <i class="fas fa-bell-slash wpdicon wpdicon-off"></i>
+                                                  </span>
+                                                  </span>
+                                                  </label>
+                                                  <input id="wpd-field-submit-0_0" class="wc_comm_submit wpd_not_clicked wpd-prim-button" type="submit" name="submit" value="Publicar Comentário." />
+                                               </div>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                         </div>
+                                      </div>
+                                      <input type="hidden" class="wpdiscuz_unique_id" value="0_0" name="wpdiscuz_unique_id">
+                                   </form>
+                                </div>
+                                <div id="wpdiscuz_hidden_secondary_form" style="display: none;">
+                                   <div class="wpd-form wpd-form-wrapper wpd-secondary-form-wrapper" id='wpd-secondary-form-wrapper-wpdiscuzuniqueid' style='display: none;'>
+                                      <div class="wpd-secondary-forms-social-content"></div>
+                                      <div class="clearfix"></div>
+                                      <form class="wpd_comm_form wpd-secondary-form-wrapper" method="post" enctype="multipart/form-data">
+                                         <div class="wpd-field-comment">
+                                            <div class="wpdiscuz-item wc-field-textarea">
+                                               <div class="wpdiscuz-textarea-wrap ">
+                                                  <div class="wpd-avatar">
+                                                     <img alt='guest' src='https://secure.gravatar.com/avatar/?s=56&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=112&#038;d=mm&#038;r=g 2x' class='avatar avatar-56 photo avatar-default' height='56' width='56' loading='lazy'/>                                    
+                                                  </div>
+                                                  <div id="wpd-editor-wraper-wpdiscuzuniqueid" style="display: none;">
+                                                     <div id="wpd-editor-char-counter-wpdiscuzuniqueid" class="wpd-editor-char-counter"></div>
+                                                     <textarea id="wc-textarea-wpdiscuzuniqueid" required name="wc_comment" class="wc_comment wpd-field"></textarea>
+                                                     <div id="wpd-editor-wpdiscuzuniqueid"></div>
+                                                     <div id="wpd-editor-toolbar-wpdiscuzuniqueid">
+                                                        <button title="Bold" class="ql-bold"  ></button>
+                                                        <button title="Italic" class="ql-italic"  ></button>
+                                                        <button title="Underline" class="ql-underline"  ></button>
+                                                        <button title="Strike" class="ql-strike"  ></button>
+                                                        <button title="Ordered List" class="ql-list" value='ordered' ></button>
+                                                        <button title="Unordered List" class="ql-list" value='bullet' ></button>
+                                                        <button title="Blockquote" class="ql-blockquote"  ></button>
+                                                        <button title="Code Block" class="ql-code-block"  ></button>
+                                                        <button title="Link" class="ql-link"  ></button>
+                                                        <button title="Source Code" class="ql-sourcecode"  data-wpde_button_name='sourcecode'>{}</button>
+                                                        <button title="Spoiler" class="ql-spoiler"  data-wpde_button_name='spoiler'>[+]</button>
+                                                        <div class="wpd-editor-buttons-right">
+                                                           <span class='wmu-upload-wrap' wpd-tooltip='Attach an image to this comment' wpd-tooltip-position='left'><label class='wmu-add'><i class='far fa-image'></i><input style='display:none;' class='wmu-add-files' type='file' name='wmu_files[]'  accept='image/*'/></label></span>
+                                                           <div class='wpd-clear'></div>
+                                                        </div>
+                                                     </div>
+                                                  </div>
+                                               </div>
+                                            </div>
+                                         </div>
+                                         <div class="wpd-form-foot" style='display:none;'>
+                                            <div class="wpdiscuz-textarea-foot">
+                                               <div class="wpdiscuz-button-actions">
+                                                  <div class='wmu-action-wrap'>
+                                                     <div class='wmu-tabs wmu-images-tab wmu-hide'></div>
+                                                  </div>
+                                               </div>
+                                            </div>
+                                            <div class="wpd-form-row">
+                                               <div class="wpd-form-col-left">
+                                                  <div class="wpdiscuz-item wc_name-wrapper wpd-has-icon">
+                                                     <div class="wpd-field-icon"><i class="fas fa-user"></i></div>
+                                                     <input id="wc_name-wpdiscuzuniqueid" value="" required='required' class="wc_name wpd-field" type="text" name="wc_name" placeholder="Nome*" maxlength="50" pattern='.{3,50}' title="">
+                                                     <label for="wc_name-wpdiscuzuniqueid" class="wpdlb">Nome*</label>
+                                                  </div>
+                                                  <div class="wpdiscuz-item wc_email-wrapper wpd-has-icon">
+                                                     <div class="wpd-field-icon"><i class="fas fa-at"></i></div>
+                                                     <input id="wc_email-wpdiscuzuniqueid" value="" required='required' class="wc_email wpd-field" type="email" name="wc_email" placeholder="Email*" />
+                                                     <label for="wc_email-wpdiscuzuniqueid" class="wpdlb">Email*</label>
+                                                  </div>
+                                                  <div class="wpdiscuz-item wc_website-wrapper wpd-has-icon">
+                                                     <div class="wpd-field-icon"><i class="fas fa-link"></i></div>
+                                                     <input id="wc_website-wpdiscuzuniqueid" value="" class="wc_website wpd-field" type="text" name="wc_website" placeholder="Website" />
+                                                     <label for="wc_website-wpdiscuzuniqueid" class="wpdlb">Website</label>
+                                                  </div>
+                                               </div>
+                                               <div class="wpd-form-col-right">
+                                                  <div class="wc-field-submit">
+                                                     <label class="wpd_label" wpd-tooltip="Notificar-me de respostas a este comentário">
+                                                     <input id="wc_notification_new_comment-wpdiscuzuniqueid" class="wc_notification_new_comment-wpdiscuzuniqueid wpd_label__checkbox" value="comment" type="checkbox" name="wpdiscuz_notification_type" />
+                                                     <span class="wpd_label__text">
+                                                     <span class="wpd_label__check">
+                                                     <i class="fas fa-bell wpdicon wpdicon-on"></i>
+                                                     <i class="fas fa-bell-slash wpdicon wpdicon-off"></i>
+                                                     </span>
+                                                     </span>
+                                                     </label>
+                                                     <input id="wpd-field-submit-wpdiscuzuniqueid" class="wc_comm_submit wpd_not_clicked wpd-prim-button" type="submit" name="submit" value="Publicar Comentário." />
+                                                  </div>
+                                               </div>
+                                               <div class="clearfix"></div>
+                                            </div>
+                                         </div>
+                                         <input type="hidden" class="wpdiscuz_unique_id" value="wpdiscuzuniqueid" name="wpdiscuz_unique_id">
+                                      </form>
+                                   </div>
+                                </div>
+                             </div>
+                             <div id="wpd-threads" class="wpd-thread-wrapper">
+                                <div class="wpd-comment-info-bar">
+                                   <div class="wpd-current-view"><i class="fas fa-quote-left"></i> Inline Feedbacks</div>
+                                   <div class="wpd-filter-view-all">View all comments</div>
+                                </div>
+                                <div class="wpd-thread-list">
+                                   <div class="wpdiscuz-comment-pagination">
+                                   </div>
+                                </div>
+                             </div>
+                          </div>
+                       </div>
+                       <div id="wpdiscuz-loading-bar" class="wpdiscuz-loading-bar-unauth"></div>
+                       <div id="wpdiscuz-comment-message" class="wpdiscuz-comment-message-unauth"></div>
+                    </div>
+                    <div class="relacionado col-md-10">
+                       <h3>Confira nossos últimos blogposts:</h3>
+                       <div class="itens row">
+                          <div class="item col-12 col-md-6">
+                             <a href="https://zaganellioliveira.com.br/aut-consequatur-sint-libero/">
+                                <div id="esq-thumb" class="thumb" style="background-image: url()"></div>
+                                <h2>Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum</h2>
+                                <button>Leia mais</button>
+                             </a>
+                          </div>
+                          <div class="item col-12 col-md-6">
+                             <a href="https://zaganellioliveira.com.br/porro-perspiciatis-sequi-unde/">
+                                <div id="dir-thumb" class="thumb" style="background-image: url();"></div>
+                                <h2>Lorem ipsum lorem ipsum Lorem ipsum lorem ipsum</h2>
+                                <button>Leia mais</button>
+                             </a>
+                          </div>
+                       </div>
+                    </div>
+                 </div><!--Subscribe and recent posts-->
+
+            </section>
+        </main><!--#main-article-->
+
+        <div>
+            <footer id="colophon" class="site-footer">
+                <img class="btAgendar" src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/btAgenda.png" />
+                <div class="btRedes">
+                    <a href="tel:557332921717" target="_blank">
+                    <img src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/btTelefone.png" />
+                    </a>
+                    <a href="https://instagram.com/" target="_blank">
+                    <img src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/btInstagram.png" />
+                    </a>
+                    <a href="https://facebook.com/" target="_blank">
+                    <img src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/btFacebook.png" />
+                    </a>
+                </div>
+                <img src="_img/upperpart.png" class="upperpart" />
+                <div class="container site-info">
+                    <div id="comments-box" class="row justify-content-center">
+                    <div class="col-12 col-md-8">
+                        <a href="https://zaganellioliveira.com.br">
+                            <img src="_img/logoB.png" class="logo" />
+                        </a>
+                        <div class="endereco">
+                            <a href="https://goo.gl/maps/w66ai6gH7PSC98VG7">
+                                <img src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/icPI.png" />
+                                <span>Av. Getúlio Vargas 2879  • Bela vista  •  Teixeira de Freitas-BA  •  Cep 45990-289</span>
+                            </a>
+                            <br>
+                            <a href="tel:557332921717">
+                                <img src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/icTF.png" />
+                                <span>Tel (73) 3292-1717</span>
+                            </a>
+                            <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+                            <a href="https://wa.me/5573998194979">
+                                <img src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/icWA.png" />
+                                <span>(73) 99819-4979</span>
+                            </a>
+                            <br>
+                            <a href="mailto:contato@zaganellioliveira.com.br">
+                                <img src="https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/img/icEM.png" />
+                                <span>contato@zaganellioliveira.com.br</span>
+                            </a>
+                            <br>
+                            <a href="https://zaganellioliveira.com.br/agendamento">
+                                <span class="wh">Agende sua consulta <em>aqui</em>.</span>
+                            </a>
+                        </div>
+                        <p class="creditos">ZAGANELLI OLIVEIRA MEDICINA HUMANIZADA © 2021 Todos os direitos reservados.<br> O conteúdo deste site foi elaborado pela Zaganelli Oliveira Medicina Humanizada e as informações aqui contidas têm caráter meramente informativo e educacional. Não deve ser utilizado para realizar autodiagnóstico ou automedicação. Em caso de dúvidas, consulte seu médico, somente ele está habilitado a praticar o ato médico, conforme recomendação do Conselho Federal de Medicina. Todas imagens contidas no site são meramente ilustrativas e foram compradas em banco de imagens, não envolvendo imagens de pacientes.<br> Diretor Técnico: Sonival Azevedo Oliveira  •  CRM-BA 23366 • RQE 10362 • RQE 10361</p>
+                        </div>
+                    </div>
+                </div>
+            </footer><!-- #colophon -->
+        </div>
+        <!-- #page -->
+        <a href='javascript:void(0);' id='wpdUserContentInfoAnchor' style='display:none;' rel='#wpdUserContentInfo' data-wpd-lity>wpDiscuz</a>
+        <div id='wpdUserContentInfo' style='overflow:auto;background:#FDFDF6;padding:20px;width:600px;max-width:100%;border-radius:6px;' class='lity-hide'></div>
+        <div id='wpd-editor-source-code-wrapper-bg'></div>
+        <div id='wpd-editor-source-code-wrapper'><textarea id='wpd-editor-source-code'></textarea><button id='wpd-insert-source-code'>Insert</button><input type='hidden' id='wpd-editor-uid' /></div>
+        <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js' id='jquery-js'></script>
+        <script id='wpdiscuz-combo-js-js-extra' src='_js/controls.js'></script>
+        <script  id='wpdiscuz-combo-js-js-before' src='_js/controls.js'></script>
+        <script src='https://zaganellioliveira.com.br/wp-content/plugins/wpdiscuz/assets/js/wpdiscuz-combo.min.js?ver=7.1.3' id='wpdiscuz-combo-js-js'></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js' id='bootstrap-js-js'></script>
+        <script src='https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/js/vendor.min.js' id='vendor-min-js-js'></script>
+        <script src='https://zaganellioliveira.com.br/wp-content/themes/zaganelli/assets/js/custom.min.js' id='custom-min-js-js'></script>
+        <script src='https://zaganellioliveira.com.br/wp-content/themes/zaganelli/js/navigation.js?ver=1.0.0' id='zaganelli-navigation-js'></script>
+        <script src='https://zaganellioliveira.com.br/wp-includes/js/comment-reply.min.js?ver=5.6.2' id='comment-reply-js'></script>
+        <script src='https://zaganellioliveira.com.br/wp-includes/js/wp-embed.min.js?ver=5.6.2' id='wp-embed-js'></script>
+    </body>
 </html>
