@@ -6,12 +6,16 @@
  Veja meu portifólio <a href="https://rolphmc.github.io/portfolio-rolph/#">Clicando aqui</a> 
 </p>
 
-<p align="left">
-  💼 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap e UI/UX Design.</strong>
+<p align="left"> 
+ Meu Projeto Mais Recente <a href="https://rolphmc.github.io/quanto-custa-seu-imovel/">Avaliador de imóveis mobile</a>
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong>VSCODE, Xampp, PhotoShop, Git e GitHub.</strong>
+  💼 Habilidades: <strong> Kotlin, Padrão de Arquitetura MVP, HTML, CSS, JavaScript e UI/UX Design.</strong>
+</p>
+
+<p align="left">
+  🛠️ Ferramentas: <strong> Android Studio, VSCODE, Xampp, PhotoShop, Git e GitHub.</strong>
 </p>
 
 <p align="left">
