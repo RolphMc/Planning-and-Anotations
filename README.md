@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
- Meu Projeto Mais Recente <a href="https://rolphmc.github.io/quanto-custa-seu-imovel/">Avaliador de imóveis mobile</a>
+ Meu Projeto Mais Recente <a href="https://github.com/rolphmc/quanto-custa-seu-imovel">Avaliador de imóveis mobile</a>
 </p>
 
 <p align="left">
