@@ -15,15 +15,15 @@
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong> Android Studio, VSCODE, PhotoShop, premiere, metodologias ágeis, Git e GitHub.</strong>
+  🛠️ Ferramentas: <strong> Android Studio, VSCODE, PhotoShop, Premiere, Metodologias Ágeis, Git e GitHub.</strong>
 </p>
 
 <p align="left">
-  🎯 Atividades: <strong>Focado na aplicação e melhoria das minhas habilidades em Mobile. Meu objetivo é conquistar a oportunidade de participar e contribuir no desenvolvimento de projetos voltados para empresas dos seguintes segmentos: Construtech's, Proptech's, empresas voltadas para a criação de energias renovaveis e/ou empresas relacionadas a criação de soluções para condomínios! <strong>
+  🎯 Atividades: <strong>Focado na aplicação e melhoria das minhas habilidades em Mobile. Meu objetivo é conquistar a oportunidade de participar e contribuir no desenvolvimento de projetos voltados para empresas dos seguintes segmentos: Construtech's, Proptech's, empresas voltadas para a criação de energias renováveis e/ou empresas relacionadas a criação de soluções para condomínios! <strong>
 </p>
 
 <p align="left">
-  💬 Caso queira trocar ideias, não hesite em me enviar uma mensagem:: ⤵️
+  💬 Caso queira trocar ideias, não hesite em me enviar uma mensagem: ⤵️
 </p>
 
 <p align="left">
