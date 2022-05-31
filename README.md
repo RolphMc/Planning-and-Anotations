@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/RolphMc/portfolio-rolph/main/img/my-space-cup.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rolph">
 
 <p align="left"> 
-  Olá bem vindos ao meu Github. Sou o Rodolfo um desenvolvedor <strong>Front-End</strong> que tem necessidade de aprender coisas novas e aplica-las na resolução dos mais diversos problemas do dia a dia. Estou entusiasmado para produzir algo significativo junto de pessoas e empresas. 
+  Olá bem vindos ao meu Github. Sou o Rodolfo um desenvolvedor <strong>Mobile</strong> que tem necessidade de aprender coisas novas e aplica-las na resolução dos mais diversos problemas do dia a dia. Estou entusiasmado para produzir algo significativo junto de pessoas e empresas. 
 
  Veja meu portifólio <a href="https://rolphmc.github.io/portfolio-rolph/#">Clicando aqui</a> 
 </p>
@@ -11,15 +11,15 @@
 </p>
 
 <p align="left">
-  💼 Habilidades: <strong> Kotlin, Padrão de Arquitetura MVP, HTML, CSS, JavaScript e UI/UX Design.</strong>
+  💼 Habilidades: <strong> conceitos sobre Kotlin, Padrão de Arquitetura MVP, JavaScript, Python, Sqlite e UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong> Android Studio, VSCODE, Xampp, PhotoShop, Git e GitHub.</strong>
+  🛠️ Ferramentas: <strong> Android Studio, VSCODE, PhotoShop, premiere, metodologias ágeis, Git e GitHub.</strong>
 </p>
 
 <p align="left">
-  🎯 Atividades: <strong>Focado na aplicação e melhoria das minhas habilidades em Front-end. Meu objetivo é conquistar a oportunidade de participar e contribuir no desenvolvimento de algum projeto que ajude a sociedade de alguma forma! <strong>
+  🎯 Atividades: <strong>Focado na aplicação e melhoria das minhas habilidades em Mobile. Meu objetivo é conquistar a oportunidade de participar e contribuir no desenvolvimento de projetos voltados para empresas dos seguintes segmentos: Construtech's, Proptech's, empresas voltadas para a criação de energias renovaveis e/ou empresas relacionadas a criação de soluções para condomínios! <strong>
 </p>
 
 <p align="left">
