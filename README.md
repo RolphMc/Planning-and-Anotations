@@ -1,25 +1,25 @@
 <img src="https://raw.githubusercontent.com/RolphMc/portfolio-rolph/main/img/my-space-cup.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rolph">
 
 <p align="left"> 
-  Olá bem vindos ao meu Github. Sou o Rodolfo um desenvolvedor <strong>Mobile</strong> que tem necessidade de aprender coisas novas e aplica-las na resolução dos mais diversos problemas do dia a dia. Estou entusiasmado para produzir algo significativo junto de pessoas e empresas. 
+  Olá bem vindos ao meu Github. Sou o Rodolfo um desenvolvedor que tem necessidade de aprender coisas novas e aplica-las na resolução dos mais diversos problemas do dia a dia. Estou entusiasmado para produzir algo significativo junto de pessoas e empresas. 
 
  Veja meu portifólio <a href="https://rolphmc.github.io/portfolio-rolph/#">Clicando aqui</a> 
 </p>
 
 <p align="left"> 
- Meu Projeto Mais Recente <a href="https://github.com/rolphmc/quanto-custa-seu-imovel">Avaliador de imóveis mobile</a>
+ Meu Projeto Mais Recente <a href="https://github.com/rolphmc/livraria-phoenix">Livraria Phoenix</a>
 </p>
 
 <p align="left">
-  💼 Habilidades: <strong> conceitos sobre Kotlin, Padrão de Arquitetura MVP, JavaScript, Python, Sqlite e UI/UX Design.</strong>
+  💼 Habilidades: <strong> conceitos sobre Elixir, Padrão de Arquitetura MVC, Phoenix Framework, JavaScript e Postgresql.</strong>
 </p>
 
 <p align="left">
-  🛠️ Ferramentas: <strong> Android Studio, VSCODE, PhotoShop, Premiere, Metodologias Ágeis, Git e GitHub.</strong>
+  🛠️ Ferramentas: <strong> VSCODE, Whimsical, pgAdmin, Metodologias Ágeis e GitHub.</strong>
 </p>
 
 <p align="left">
-  🎯 Atividades: <strong>Focado na aplicação e melhoria das minhas habilidades em Mobile. Meu objetivo é conquistar a oportunidade de participar e contribuir no desenvolvimento de projetos voltados para empresas dos seguintes segmentos: Construtech's, Proptech's, empresas voltadas para a criação de energias renováveis e/ou empresas relacionadas a criação de soluções para condomínios! <strong>
+  🎯 Atividades: <strong>Focado na aplicação e melhoria das minhas habilidades em backend. Meu objetivo é conquistar a oportunidade de participar e contribuir no desenvolvimento de projetos voltados para empresas dos seguintes segmentos: Construtech's, Proptech's, empresas voltadas para a criação e expansão de energias renováveis. <strong>
 </p>
 
 <p align="left">
