@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Habilidades: <strong> conceitos sobre Elixir, Padrão de Arquitetura MVC, Phoenix Framework, JavaScript e Postgresql.</strong>
+  💼 Habilidades: <strong> Linguagem Elixir, Padrão de Arquitetura MVC, Phoenix Framework, JavaScript, Postgresql.</strong>
 </p>
 
 <p align="left">
