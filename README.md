@@ -12,7 +12,7 @@
 
 > Últimas atualizações desse projeto
 
-> - [08/08 - Resgistro do autor e Ajuste passagem da Subcategoria](https://github.com/rolphmc/livraria-phoenix/commit/7ec4e1f44b037f2ea64661b5d3730da56c52d269)
+> - [08/08 - Resgistro do autor e Ajuste passagem da Subcategoria](https://github.com/rolphmc/livraria-phoenix/commit/e645802a1ef110c350ac8591ee26243a7b26ee68)
 
 <p align="left">
   💼 Habilidades: <strong> Linguagem Elixir, Padrão de Arquitetura MVC, Phoenix Framework, JavaScript, Postgresql.</strong>
