@@ -7,12 +7,12 @@
 </p>
 
 <p align="left"> 
- Meu Projeto Mais Recente <a href="https://github.com/rolphmc/livraria-phoenix">Livraria Phoenix</a>
+ Meu Projeto Mais Recente <a href="https://github.com/rolphmc/tech-challenge-elixir">Tech-Challenge-Elixir</a>
 </p>
 
 > Últimas atualizações desse projeto
 
-> - [08/08 - Resgistro do autor e Ajuste passagem da Subcategoria](https://github.com/rolphmc/livraria-phoenix/commit/e645802a1ef110c350ac8591ee26243a7b26ee68)
+> - [22/08 - Added commenting resources to posts](https://github.com/rolphmc/tech-challenge-elixir/commit/3e43e8729b033514ff7d8005a54db1974101b134)
 
 <p align="left">
   💼 Habilidades: <strong> Linguagem Elixir, Padrão de Arquitetura MVC, Phoenix Framework, JavaScript, Postgresql.</strong>
