@@ -12,7 +12,7 @@
 
 > Últimas atualizações desse projeto
 
-> - [22/08 - Added commenting resources to posts](https://github.com/rolphmc/tech-challenge-elixir/commit/3e43e8729b033514ff7d8005a54db1974101b134)
+> - [26/08 - added end resources](https://github.com/rolphmc/tech-challenge-elixir)
 
 <p align="left">
   💼 Habilidades: <strong> Linguagem Elixir, Padrão de Arquitetura MVC, Phoenix Framework, JavaScript, Postgresql.</strong>
