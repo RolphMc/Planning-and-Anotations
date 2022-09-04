@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/RolphMc/portfolio-rolph/main/img/my-space-cup.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rolph">
+<canvas min-width="400px" max-width="400px" width="400px" align="right" alt="game test"></canvas>
+
+<!--<img src="https://raw.githubusercontent.com/RolphMc/portfolio-rolph/main/img/my-space-cup.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Rolph">-->
 
 <p align="left"> 
   Olá bem vindos ao meu Github. Sou o Rodolfo um desenvolvedor que tem necessidade de aprender coisas novas e aplica-las na resolução dos mais diversos problemas do dia a dia. Estou entusiasmado para produzir algo significativo junto de pessoas e empresas. 
