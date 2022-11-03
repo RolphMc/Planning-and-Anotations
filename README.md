@@ -10,9 +10,9 @@
  Meu Projeto Mais Recente <a href="https://github.com/rolphmc/tech-challenge-elixir">Tech-Challenge-Elixir</a>
 </p>
 
-> Últimas atualizações desse projeto
+<!-- > Últimas atualizações desse projeto
 
-> - [26/08 - added end resources](https://github.com/rolphmc/tech-challenge-elixir)
+> - [26/08 - added end resources](https://github.com/rolphmc/tech-challenge-elixir) -->
 
 <p align="left">
   💼 Habilidades: <strong> Linguagem Elixir, Padrão de Arquitetura MVC, Phoenix Framework, JavaScript, Postgresql.</strong>
